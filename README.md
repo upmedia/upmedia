@@ -1,6 +1,6 @@
 ### Hi there! I'm Uffe Petersen 👋
 
-- 🔭 I’m currently working at Mybanker
+- 🔭 I’m currently working at Hi Rasmus
 - 🌱 I’m currently learning React
 
 - 📫 Connect with me on **[LinkedIn]**
