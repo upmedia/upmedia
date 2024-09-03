@@ -1,7 +1,7 @@
 ### Hi there! I'm Uffe Petersen 👋
 
 - 🔭 I’m currently working at Hi Rasmus
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Dart + Flutter
 
 - 📫 Connect with me on **[LinkedIn]**
 
